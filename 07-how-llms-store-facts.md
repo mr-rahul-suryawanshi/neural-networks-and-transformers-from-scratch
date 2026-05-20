@@ -478,4 +478,4 @@ Fine-tuning vs RAG:
 
 ---
 
-*[← Chapter 6](06-attention-step-by-step.md) | [Chapter 8: AI Images and Video →](08-ai-images-and-video.md)*
+*[← Chapter 6](06-attention-step-by-step.md) | [The Complete Picture →](complete-picture.md)*
