@@ -48,7 +48,6 @@ Read sequentially. Each chapter builds on the previous.
 | [5](/05-transformers.md) | Transformers | Why did transformers replace RNNs and How do they work? |
 | [6](/06-attention-step-by-step.md) | Attention: Step by Step | How is attention computed precisely? |
 | [7](/07-how-llms-store-facts.md) | How LLMs Store Facts | Where does GPT "know" things and Why does it hallucinate? |
-| [8](/08-ai-images-and-video.md) | AI Images and Video | How does diffusion turn noise into photorealistic images? |
 | [↗](/complete-picture.md) | The Complete Picture | How does everything connect into one unified system? |
 
 ---
