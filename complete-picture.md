@@ -259,4 +259,4 @@ Build on this. Go deeper. Build systems. Read papers. Debug failures. Teach othe
 
 ---
 
-*[← Chapter 8](../chapters/08-ai-images-and-video.md) | [Back to README](../README.md)*
+*[Back to README](../README.md)*
