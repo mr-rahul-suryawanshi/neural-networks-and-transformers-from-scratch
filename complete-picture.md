@@ -259,4 +259,4 @@ Build on this. Go deeper. Build systems. Read papers. Debug failures. Teach othe
 
 ---
 
-*[Back to README](../README.md)*
+*[Back to README](/README.md)*
