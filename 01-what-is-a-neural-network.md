@@ -346,4 +346,4 @@ The answer is **Gradient Descent**, and it is one of the most beautiful ideas in
 
 ---
 
-*[← Back to README](../README.md) | [Chapter 2: Gradient Descent →](02-gradient-descent.md)*
+*[← Back to README](/README.md) | [Chapter 2: Gradient Descent →](02-gradient-descent.md)*
